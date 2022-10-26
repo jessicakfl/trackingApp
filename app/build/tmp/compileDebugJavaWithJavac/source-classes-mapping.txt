@@ -1,0 +1,181 @@
+com/wiseassblog/fountaindayplanner/domain/constants/QUARTER.java
+ com.wiseassblog.fountaindayplanner.domain.constants.QUARTER
+com/wiseassblog/fountaindayplanner/domain/Day.java
+ com.wiseassblog.fountaindayplanner.domain.Day
+com/wiseassblog/fountaindayplanner/common/Messages.java
+ com.wiseassblog.fountaindayplanner.common.Messages
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TaskListViewModel.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskListViewModel
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TaskGridItemViewMaker.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskGridItemViewMaker
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TaskGridItemView.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskGridItemView
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TaskListActivity.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskListActivity
+com/wiseassblog/fountaindayplanner/ApplicationExecutors.java
+ com.wiseassblog.fountaindayplanner.ApplicationExecutors
+ com.wiseassblog.fountaindayplanner.ApplicationExecutors$1
+ com.wiseassblog.fountaindayplanner.ApplicationExecutors$MainThreadExecutor
+com/wiseassblog/fountaindayplanner/common/Publisher.java
+ com.wiseassblog.fountaindayplanner.common.Publisher
+com/wiseassblog/fountaindayplanner/persistence/LocalDayStorageImpl.java
+ com.wiseassblog.fountaindayplanner.persistence.LocalDayStorageImpl
+com/wiseassblog/fountaindayplanner/ui/dayview/DayActivity.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayActivity
+com/wiseassblog/fountaindayplanner/ui/managehourview/HourViewLogic.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewLogic
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewLogic$1
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewLogic$2
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewLogic$3
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewLogic$4
+com/wiseassblog/fountaindayplanner/persistence/LocalTaskStorageImpl.java
+ com.wiseassblog.fountaindayplanner.persistence.LocalTaskStorageImpl
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TaskGridItemViewAdapter.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskGridItemViewAdapter
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskGridItemViewAdapter$TaskGridAdapterCallback
+com/wiseassblog/fountaindayplanner/domain/constants/COLOR.java
+ com.wiseassblog.fountaindayplanner.domain.constants.COLOR
+com/wiseassblog/fountaindayplanner/common/Continuation.java
+ com.wiseassblog.fountaindayplanner.common.Continuation
+com/wiseassblog/fountaindayplanner/ui/dayview/DayViewModel.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewModel
+com/wiseassblog/fountaindayplanner/common/IconUtility.java
+ com.wiseassblog.fountaindayplanner.common.IconUtility
+ com.wiseassblog.fountaindayplanner.common.IconUtility$1
+com/wiseassblog/fountaindayplanner/ui/dayview/DayView.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayView
+com/wiseassblog/fountaindayplanner/domain/constants/HOUR_MODE.java
+ com.wiseassblog.fountaindayplanner.domain.constants.HOUR_MODE
+com/wiseassblog/fountaindayplanner/ui/managetaskview/ColorPickerView.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.ColorPickerView
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.ColorPickerView$ColorPickerViewClickHandler
+com/wiseassblog/fountaindayplanner/ui/managetaskview/ITaskViewContract.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.ITaskViewContract
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.ITaskViewContract$View
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.ITaskViewContract$ViewModel
+com/wiseassblog/fountaindayplanner/ui/managetaskview/buildlogic/TaskViewInjector.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.buildlogic.TaskViewInjector
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TaskListView.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskListView
+com/wiseassblog/fountaindayplanner/domain/Hour.java
+ com.wiseassblog.fountaindayplanner.domain.Hour
+com/wiseassblog/fountaindayplanner/BuildConfig.java
+ com.wiseassblog.fountaindayplanner.BuildConfig
+com/wiseassblog/fountaindayplanner/ui/dayview/LIST_ITEM_TYPE.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.LIST_ITEM_TYPE
+com/wiseassblog/fountaindayplanner/domain/ITaskStorage.java
+ com.wiseassblog.fountaindayplanner.domain.ITaskStorage
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TasksListViewEvent.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TasksListViewEvent
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TasksListViewEvent$Event
+com/wiseassblog/fountaindayplanner/ui/managehourview/buildlogic/HourViewInjector.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.buildlogic.HourViewInjector
+com/wiseassblog/fountaindayplanner/domain/constants/BASIC_TASKS.java
+ com.wiseassblog.fountaindayplanner.domain.constants.BASIC_TASKS
+com/wiseassblog/fountaindayplanner/ui/managehourview/ToggleHourView.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.ToggleHourView
+com/wiseassblog/fountaindayplanner/ui/dayview/DayAdapter.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter$1
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter$BaseViewHolder
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter$DayAdapterEventHandler
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter$FourTaskViewHolder
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter$SingleTaskViewHolder
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter$ThreeTaskViewHolder
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayAdapter$TwoTaskViewHolder
+com/wiseassblog/fountaindayplanner/common/Subscriber.java
+ com.wiseassblog.fountaindayplanner.common.Subscriber
+com/wiseassblog/fountaindayplanner/ui/managetaskview/IconSpinnerItem.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.IconSpinnerItem
+com/wiseassblog/fountaindayplanner/ui/dayview/buildlogic/DayViewInjector.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.buildlogic.DayViewInjector
+com/wiseassblog/fountaindayplanner/ui/tasklistview/ITaskListViewContract.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.ITaskListViewContract
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.ITaskListViewContract$View
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.ITaskListViewContract$ViewModel
+com/wiseassblog/fountaindayplanner/ui/managehourview/HourActivity.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourActivity
+com/wiseassblog/fountaindayplanner/ui/dayview/DayViewLogic.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewLogic
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewLogic$1
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewLogic$2
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewLogic$3
+com/wiseassblog/fountaindayplanner/ui/managetaskview/TaskActivity.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskActivity
+com/wiseassblog/fountaindayplanner/domain/QuarterHour.java
+ com.wiseassblog.fountaindayplanner.domain.QuarterHour
+com/wiseassblog/fountaindayplanner/ui/tasklistview/TaskListViewLogic.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskListViewLogic
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskListViewLogic$1
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskListViewLogic$2
+com/wiseassblog/fountaindayplanner/domain/constants/Extras.java
+ com.wiseassblog.fountaindayplanner.domain.constants.Extras
+com/wiseassblog/fountaindayplanner/ui/managetaskview/IconSpinnerAdapter.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.IconSpinnerAdapter
+com/wiseassblog/fountaindayplanner/ui/managetaskview/TaskViewLogic.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskViewLogic
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskViewLogic$1
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskViewLogic$2
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskViewLogic$3
+com/wiseassblog/fountaindayplanner/domain/Tasks.java
+ com.wiseassblog.fountaindayplanner.domain.Tasks
+com/wiseassblog/fountaindayplanner/ui/dayview/DayViewUpdate.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewUpdate
+com/wiseassblog/fountaindayplanner/domain/constants/ICON.java
+ com.wiseassblog.fountaindayplanner.domain.constants.ICON
+com/wiseassblog/fountaindayplanner/ui/dayview/DayListItemView.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayListItemView
+com/wiseassblog/fountaindayplanner/ui/managetaskview/TaskViewModel.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskViewModel
+com/wiseassblog/fountaindayplanner/ui/dayview/DayListItemViewMaker.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayListItemViewMaker
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayListItemViewMaker$1
+com/wiseassblog/fountaindayplanner/ui/managehourview/IHourContract.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.IHourContract
+ com.wiseassblog.fountaindayplanner.ui.managehourview.IHourContract$View
+ com.wiseassblog.fountaindayplanner.ui.managehourview.IHourContract$ViewModel
+com/wiseassblog/fountaindayplanner/ui/managehourview/HourViewEvent.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewEvent
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewEvent$Event
+com/wiseassblog/fountaindayplanner/ui/dayview/IDayViewContract.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.IDayViewContract
+ com.wiseassblog.fountaindayplanner.ui.dayview.IDayViewContract$View
+ com.wiseassblog.fountaindayplanner.ui.dayview.IDayViewContract$ViewModel
+com/wiseassblog/fountaindayplanner/ui/dayview/DayViewEvent.java
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewEvent
+ com.wiseassblog.fountaindayplanner.ui.dayview.DayViewEvent$Event
+com/wiseassblog/fountaindayplanner/common/TimeFormatUtility.java
+ com.wiseassblog.fountaindayplanner.common.TimeFormatUtility
+ com.wiseassblog.fountaindayplanner.common.TimeFormatUtility$1
+com/wiseassblog/fountaindayplanner/domain/Task.java
+ com.wiseassblog.fountaindayplanner.domain.Task
+com/wiseassblog/fountaindayplanner/ui/managehourview/HourView.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourView
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourView$1
+com/wiseassblog/fountaindayplanner/ui/managetaskview/TaskView.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskView
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskView$1
+com/wiseassblog/fountaindayplanner/FountainApp.java
+ com.wiseassblog.fountaindayplanner.FountainApp
+com/wiseassblog/fountaindayplanner/ui/managehourview/HourViewModel.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourViewModel
+com/wiseassblog/fountaindayplanner/common/BaseViewLogic.java
+ com.wiseassblog.fountaindayplanner.common.BaseViewLogic
+com/wiseassblog/fountaindayplanner/persistence/PreloadData.java
+ com.wiseassblog.fountaindayplanner.persistence.PreloadData
+com/wiseassblog/fountaindayplanner/common/ColorUtility.java
+ com.wiseassblog.fountaindayplanner.common.ColorUtility
+ com.wiseassblog.fountaindayplanner.common.ColorUtility$1
+com/wiseassblog/fountaindayplanner/StorageServiceLocator.java
+ com.wiseassblog.fountaindayplanner.StorageServiceLocator
+com/wiseassblog/fountaindayplanner/domain/IDayStorage.java
+ com.wiseassblog.fountaindayplanner.domain.IDayStorage
+com/wiseassblog/fountaindayplanner/ui/managehourview/HourToggleView.java
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourToggleView
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourToggleView$1
+ com.wiseassblog.fountaindayplanner.ui.managehourview.HourToggleView$ToggleViewClickHandler
+com/wiseassblog/fountaindayplanner/ui/managetaskview/TaskViewEvent.java
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskViewEvent
+ com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskViewEvent$Event
+com/wiseassblog/fountaindayplanner/ui/tasklistview/buildlogic/TaskListViewInjector.java
+ com.wiseassblog.fountaindayplanner.ui.tasklistview.buildlogic.TaskListViewInjector

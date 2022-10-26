@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wiseassblog.fountaindayplanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:5:5-26:19
+12        android:name="com.wiseassblog.fountaindayplanner.FountainApp"
+12-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:6:9-70
+13        android:allowBackup="true"
+13-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:7:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.3.1] /Users/jessicakfl/.gradle/caches/transforms-2/files-2.1/2b83affeb89c55eaab08fda25d8b4584/core-1.3.1/AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:8:9-43
+17        android:label="@string/app_name"
+17-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:10:9-54
+19        android:supportsRtl="true"
+19-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:12:9-40
+22        <activity android:name="com.wiseassblog.fountaindayplanner.ui.tasklistview.TaskListActivity" />
+22-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:13:9-113
+22-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:13:19-101
+23        <activity android:name="com.wiseassblog.fountaindayplanner.ui.managetaskview.TaskActivity" />
+23-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:14:9-102
+23-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:14:19-99
+24        <activity android:name="com.wiseassblog.fountaindayplanner.ui.managehourview.HourActivity" />
+24-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:15:9-102
+24-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:15:19-99
+25        <activity
+25-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:16:9-25:20
+26            android:name="com.wiseassblog.fountaindayplanner.ui.dayview.DayActivity"
+26-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:16:19-91
+27            android:exported="true"
+27-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:18:13-36
+28            android:screenOrientation="portrait" >
+28-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:17:17-53
+29            <intent-filter>
+29-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:19:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:20:17-69
+30-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:22:17-77
+32-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:22:27-74
+33                <category android:name="android.intent.category.DEFAULT" />
+33-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:23:17-76
+33-->/Users/jessicakfl/AndroidStudioProjects/SamsaraDayPlanner-master/app/src/main/AndroidManifest.xml:23:27-73
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
